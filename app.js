@@ -165,6 +165,6 @@ document.querySelector('.next-btn').addEventListener('click', function() {
 
 function GoToHomePage()
 {
-  window.location = '/index.html';   
+  window.location = '/rock-paper-scissors/index.html';   
   localStorage.clear();
 }
